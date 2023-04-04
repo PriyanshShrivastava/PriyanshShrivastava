@@ -184,26 +184,4 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshshrivastava&show_icons=true&locale=en&layout=compact"
-    alt="priyanshshrivastava"
-  />
-</p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=priyanshshrivastava&show_icons=true&locale=en"
-    alt="priyanshshrivastava"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshshrivastava&"
-    alt="priyanshshrivastava"
-  />
-</p>
