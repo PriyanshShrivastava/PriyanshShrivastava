@@ -1,10 +1,14 @@
 
 <h3 align="left">Currently working on </h3>
-- 🌱 I’m currently learning **ReactJS, TypeScript and MongoDB** 
--  👯 I’m looking to collaborate on **Web Technologies and Web 3** 
-- 📝 I regularly write articles on [https://priyanshshrivastava.hashnode.dev/](https://priyanshshrivastava.hashnode.dev/)
-- 💬 Ask me about **JavaScript and Node** - 📫 How to reach me **learn.priyansh@gmail.com** 
--  ⚡ Fun fact **let and const are also hoisted.**
+
+
+ - 🌱 I’m currently learning **ReactJS**, **TypeScript** and **MongoDB**.
+
+ - 👯 I’m looking to collaborate on **Web Technologies** and **Web 3**
+
+ - 📝 I regularly write articles on [https://priyanshshrivastava.hashnode.dev/](https://priyanshshrivastava.hashnode.dev/)
+
+ - 💬 Ask me about **JavaScript and Node** - 📫 How to reach me **learn.priyansh@gmail.com**Web 3 
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 2.5rem; flex-direction: row">
