@@ -8,7 +8,7 @@
 
  - 📝 I regularly write articles on [https://priyanshshrivastava.hashnode.dev/](https://priyanshshrivastava.hashnode.dev/)
 
- - 💬 Ask me about **JavaScript and Node** - 📫 How to reach me **learn.priyansh@gmail.com**Web 3 
+ - 💬 Ask me about **JavaScript and Node** - 📫 How to reach me **learn.priyansh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap: 2.5rem; flex-direction: row">
