@@ -2,7 +2,7 @@
 <h3 align="left">Currently working on </h3>
 
 
- - 🌱 I’m currently learning **ReactJS**, **TypeScript** and **MongoDB**.
+ - 🌱 I’m currently learning **ReactJS**, **Angular**, **TypeScript** and **MongoDB**.
 
  - 👯 I’m looking to collaborate on **Web Technologies** and **Web 3**
 
